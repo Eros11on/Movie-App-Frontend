@@ -1,3 +1,3 @@
-# Movie-App-Frontend
+# Movie-Website-Frontend
 
-This is the frontend of Movie App using React.js
+This is the frontend of Movie Website using React.js
